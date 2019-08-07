@@ -23,7 +23,7 @@
 
 (function (w, d) {
   var
-    atc_url = '//mwaetc.org/addtocalendar/',
+    atc_url = '//<YOUR HOST>/addtocalendar/',
     atc_version = '1.5';
 
 
